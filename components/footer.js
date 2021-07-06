@@ -12,6 +12,7 @@ const Footer = () => {
                            src="/socialMediaIcons/facebook.svg"
                            height={50}
                            width={50}
+                           alt="facebook-icon"
                         />
                      </a>
 
@@ -20,6 +21,7 @@ const Footer = () => {
                            src="/socialMediaIcons/linkedin.svg"
                            height={50}
                            width={50}
+                           alt="linkedin-icon"
                         />
                      </a>
 
@@ -28,6 +30,7 @@ const Footer = () => {
                            src="/socialMediaIcons/whatsapp.svg"
                            height={50}
                            width={50}
+                           alt="whatsapp-icon"
                         />
                      </a>
 
@@ -36,6 +39,7 @@ const Footer = () => {
                            src="/socialMediaIcons/github.svg"
                            height={50}
                            width={50}
+                           alt="github-icon"
                         />
                      </a>
                   </div>

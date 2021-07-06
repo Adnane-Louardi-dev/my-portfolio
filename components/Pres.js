@@ -9,7 +9,7 @@ const Pres = () => {
                   styles.presText + " col-12 col-md-5 pt-3 px-4 mx-auto "
                }
             >
-               <h5 className={styles.presHello}>Hello, I'm</h5>
+               <h5 className={styles.presHello}>Hello, I&apos;m</h5>
                <h1 className={styles.presName + " mt-3"}>
                   Adnane <br /> Louardi
                </h1>
